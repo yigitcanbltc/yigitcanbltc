@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitcanbltc&show_icons=true&locale=en" alt="yigitcanbltc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigitcanbltc&" alt="yigitcanbltc" /></p>
+
+
+![snake gif](https://github.com/yigitcanbltc/yigitcanbltc/blob/output/github-contribution-grid-snake.gif)
